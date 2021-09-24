@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @omarluq
-- 🌱 I’m currently a software development student at AppAcadmey  
+- 👋 Hi, Welcome to my github
+- Name is omar, a Fullstack Software Engineer 
+- Ruby • Ruby on Rails • JavaScript • React • Redux • NodeJS • Express • PostgreSQL • GIT • HTML • CSS • SCSS
 - 📫 You can reach me omaralanii@outlook.com
 
 <!---
