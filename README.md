@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is omar luqman, welcome to my github
 
-- 💻 Full-stack developer.
+- 💻 Full-stack engineer.
 - 💼 Currently in the job market.
 - 🤝 Open to collaboration!
 
