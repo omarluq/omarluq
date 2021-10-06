@@ -17,7 +17,7 @@
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarluq&layout=compact)](https://github.com/omarluq)
 
-## 💬 Feel free to reach out! I'm always open for a chat.
+## 💬 Feel free to reach out! I'm always down to chat.
 [![Twitter](https://img.shields.io/badge/therealomarluq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/therealomarluq)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-luqman-147011183/)
 
