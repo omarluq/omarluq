@@ -1,5 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is omar luqman, welcome to my github
-
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is omar luqman, welcome to my github ![](https://komarev.com/ghpvc/?username=your-github-omarluq&color=181818&label=PROFILE+VIEWS+👀&style=plastic)
 - 💻 Full-stack engineer.
 - 💼 Currently in the job market.
 - 🤝 Open to collaboration!
@@ -13,9 +12,7 @@
 	
 ## 📊 Stats 
 
-[![Omar's Stats](https://github-readme-stats.vercel.app/api?username=omarluq&count_private=true&theme=react&show_icons=true)](https://github.com/omarluq) 
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarluq)](https://github.com/omarluq)
+[![Omar's Stats](https://github-readme-stats.vercel.app/api?username=omarluq&count_private=true&theme=react&show_icons=true)](https://github.com/omarluq)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarluq&layout=compact&theme=react)](https://github.com/omarluq)
 
 ## 💬 Feel free to reach out! I'm always down to chat.
 [![Twitter](https://img.shields.io/badge/therealomarluq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/therealomarluq)
