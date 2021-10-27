@@ -1,6 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is omar luqman, welcome to my github ![](https://komarev.com/ghpvc/?username=your-github-omarluq&color=181818&label=PROFILE+VIEWS+👀&style=plastic)
 - 💻 Full-stack engineer.
-- 💼 Currently in the job market.
 - 🤝 Open to collaboration!
 
 
