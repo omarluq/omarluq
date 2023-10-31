@@ -1,7 +1,4 @@
 ## 👋 Hi, my name is Omar Luqman, welcome to my github ![](https://komarev.com/ghpvc/?username=your-github-omarluq&color=181818&label=PROFILE+VIEWS+👀&style=plastic) ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{omarluq}1212%2Fhit-counter)
-
-[![Omar's Trophies](https://github-profile-trophy.vercel.app/?username=omarluq&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/omarluq)
-
 - 💻 Fullstack Software Engineer, SRE, Cloud Engineer.
 - 🤝 Open to collaboration!
 	
@@ -10,10 +7,16 @@
 	
 
 
+[![Omar's Trophies](https://github-profile-trophy.vercel.app/?username=omarluq&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/omarluq)\
+</br>
 [![Omar's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=omarluq&theme=tokyonight)](https://github.com/omarluq)\
+</br>
 [![Omar's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarluq&theme=tokyonight)](https://github.com/omarluq)\
+</br>
 [![Omar's Stats](https://github-readme-stats.vercel.app/api?username=omarluq&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/omarluq)\
+</br>
 [![Omar's stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarluq&theme=tokyonight)](https://github.com/omarluq)\
+</br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarluq&layout=compact&theme=tokyonight)](https://github.com/omarluq)
 
 
