@@ -1,12 +1,8 @@
-
+# Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a><img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true">
+I'm Omar, a Fullstack engineer with a clear vision: building software that empowers and connects. My journey is fueled by a passion for open source and a belief in the power of community-driven development. Part of the innovative team at <a href="https://www.g2.com"><img src="https://github.com/omarluq/omarluq/blob/main/assets/g2-logo.png?raw=true" width="24" alt="G2 Logo" /></a>, where we're shaping the future of business software and services.
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=omarluq&rank=-C,-B&theme=tokyonight&margin-w=15" />
 </p>
-
-# Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I'm Omar, a Fullstack engineer with a clear vision: building software that empowers and connects. My journey is fueled by a passion for open source and a belief in the power of community-driven development. Part of the innovative team at <a href="https://www.g2.com"><img src="https://github.com/omarluq/omarluq/blob/main/assets/g2-logo.png?raw=true" width="24" alt="G2 Logo" /></a>, where we're shaping the future of business software and services.
-
-__<img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true">__
 <div>
   <p>
     <a href="https://github.com/omarluq/stimulus-store">
@@ -15,7 +11,11 @@ __<img align="left" width="150" height="150" src="https://github.com/omarluq/oma
   </p>
 </div>
 
-## Technologies 💾
+<details>
+  <summary>
+   <H4>Technologies 💾</H4>
+  </summary>
+
   ![Ruby](https://img.shields.io/badge/Ruby-%23000000.svg?style=for-the-badge&logo=ruby&logoColor=red)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript)
   ![Go](https://img.shields.io/badge/Go-%23000000.svg?style=for-the-badge&logo=go)
@@ -25,7 +25,7 @@ __<img align="left" width="150" height="150" src="https://github.com/omarluq/oma
   ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite) 
   ![Elixir](https://img.shields.io/badge/Elixir-%23000000.svg?style=for-the-badge&logo=elixir&logoColor=purple) 
   ![Rails](https://img.shields.io/badge/Rails-%23000000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=red) 
-  ![Hotwire](https://img.shields.io/badge/-Hotwire-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTk2IDE5NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8c3R5bGU+CiAgICBwYXRoIHsKICAgICAgZmlsbDogIzAwMDAwMDsKICAgIH0KICAgIEBtZWRpYSAocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspIHsKICAgICAgcGF0aCB7CiAgICAgICAgZmlsbDogI2ZmZmZmZjsKICAgICAgfQogICAgfQogIDwvc3R5bGU+CiAgPHBhdGggZD0ibTE2LjM4IDE4NC44IDEwOS40Ni00NC43Mi0zNS4yNy0zLjMxIDc2LjczLTY2LjU5LTQ0LjMzLTQuMTYgNTMuOS01NS41My0xMzYuNTIgNzAuMDMgNTQuODkgNi40NC02Ny4zMiA1NC4zOCAzMC4wNyAyLjk3eiIvPgo8L3N2Zz4= ) 
+  ![Hotwire](https://img.shields.io/badge/-Hotwire-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTk2IDE5NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8c3R5bGU+CiAgICBwYXRoIHsKICAgICAgZmlsbDogIzAwMDAwMDsKICAgIH0KICAgIEBtZWRpYSAocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspIHsKICAgICAgcGF0aCB7CiAgICAgICAgZmlsbDogI2ZmZmZmZjsKICAgICAgfQogICAgfQogIDwvc3R5bGU+CiAgPHBhdGggZD0ibTE2LjM4IDE4NC44IDEwOS40Ni00NC43Mi0zNS4yNy0zLjMxIDc2LjczLTY2LjU5LTQ0LjMzLTQuMTYgNTMuOS01NS41My0xMzYuNTIgNzAuMDMgNTQuODkgNi40NC02Ny4zMiA1NC4zOCAzMC4wNyAyLjk3eiIvPgo8L3N2Zz4=&logoColor=white) 
   ![Serverless](https://img.shields.io/badge/Serverless-%23000000.svg?style=for-the-badge&logo=serverless) 
   ![Svelte](https://img.shields.io/badge/Svelte-%23000000.svg?style=for-the-badge&logo=svelte) 
   ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23000000.svg?style=for-the-badge&logo=svelte) 
@@ -84,11 +84,26 @@ __<img align="left" width="150" height="150" src="https://github.com/omarluq/oma
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=Apache%20Kafka) 
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23000000.svg?style=for-the-badge&logo=RabbitMQ) 
   ![Anycable](https://img.shields.io/badge/-AnyCable-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCAxMDIiIHdpZHRoPSIxMjAiIGhlaWdodD0iMTUwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxkZWZzPjxsaW5lYXJHcmFkaWVudCB4MT0iMCUiIHkxPSIxMC4yMjkxNjY2JSIgeDI9IjEwMCUiIHkyPSIxMC4yMjkxNjY2JSIgaWQ9IkEiPjxzdG9wIHN0b3AtY29sb3I9IiNmMjJiMmIiIG9mZnNldD0iMCUiLz48c3RvcCBzdG9wLWNvbG9yPSIjZmY1ZTVlIiBvZmZzZXQ9IjEwMCUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiM0YTRhNGEiPjxwYXRoIGQ9Ik0yOCA3MC45OTFjMC0xLjEuNzk2LTEuNTkzIDEuNzk1LTEuMDk0bDQuNDA5IDIuMjA1QzM1LjE5NiA3Mi41OTggMzYgNzMuOSAzNiA3NC45OTF2MjQuMDE4YzAgMS4xLS43OTYgMS41OTMtMS43OTUgMS4wOTRsLTQuNDA5LTIuMjA1QzI4LjgwNCA5Ny40MDIgMjggOTYuMSAyOCA5NS4wMDlWNzAuOTkxem0xLjg1MSAyMy42NDRjLjU3NSAxLjU3OSAyLjAwMSAyLjUxIDMuMTg1IDIuMDc5czEuNjc4LTIuMDYxIDEuMTA0LTMuNjQtMi4wMDEtMi41MS0zLjE4NS0yLjA3OS0xLjY3OCAyLjA2MS0xLjEwNCAzLjY0eiIvPjxwYXRoIGQ9Ik0zNS4zIDcyLjI0bC0yIDF2MjhsMi0xem0tNi4xMzYgMTguMDk0bC0uMjI4IDQuNDA0IDIuODQzIDMuNTgtMy42NzYtLjEwOS0xLjU1My00LjE0NC4zODEtMy42MjJ6Ii8+PC9nPjxwYXRoIGQ9Ik0yNiA3MS45OTFjMC0xLjEuNzk2LTEuNTkzIDEuNzk1LTEuMDk0bDQuNDA5IDIuMjA1QzMzLjE5NiA3My41OTggMzQgNzQuOSAzNCA3NS45OTF2MjQuMDE4YzAgMS4xLS43OTYgMS41OTMtMS43OTUgMS4wOTRsLTQuNDA5LTIuMjA1QzI2LjgwNCA5OC40MDIgMjYgOTcuMSAyNiA5Ni4wMDlWNzEuOTkxem0xLjg1MSAyMy42NDRjLjU3NSAxLjU3OSAyLjAwMSAyLjUxIDMuMTg1IDIuMDc5czEuNjc4LTIuMDYxIDEuMTA0LTMuNjQtMi4wMDEtMi41MS0zLjE4NS0yLjA3OS0xLjY3OCAyLjA2MS0xLjEwNCAzLjY0eiIgZmlsbD0iIzAwMCIvPjxnIGZpbGw9IiM0YTRhNGEiPjxwYXRoIGQ9Ik00NCA2Mi45OTFjMC0xLjEuNzk2LTEuNTkzIDEuNzk1LTEuMDk0bDQuNDA5IDIuMjA1QzUxLjE5NiA2NC41OTggNTIgNjUuOSA1MiA2Ni45OTF2MjQuMDE4YzAgMS4xLS43OTYgMS41OTMtMS43OTUgMS4wOTRsLTQuNDA5LTIuMjA1QzQ0LjgwNCA4OS40MDIgNDQgODguMSA0NCA4Ny4wMDlWNjIuOTkxem0xLjg1MSAyMy42NDRjLjU3NSAxLjU3OSAyLjAwMSAyLjUxIDMuMTg1IDIuMDc5czEuNjc4LTIuMDYxIDEuMTA0LTMuNjQtMi4wMDEtMi41MS0zLjE4NS0yLjA3OS0xLjY3OCAyLjA2MS0xLjEwNCAzLjY0eiIvPjxwYXRoIGQ9Ik01MS4zIDY0LjI0bC0yIDF2MjhsMi0xem0tNi4xMzYgMTguMDk0bC0uMjI4IDQuNDA0IDIuODQzIDMuNTgtMy42NzYtLjEwOS0xLjU1My00LjE0NC4zODEtMy42MjJ6Ii8+PC9nPjxwYXRoIGQ9Ik00MiA2My45OTFjMC0xLjEuNzk2LTEuNTkzIDEuNzk1LTEuMDk0bDQuNDA5IDIuMjA1QzQ5LjE5NiA2NS41OTggNTAgNjYuOSA1MCA2Ny45OTF2MjQuMDE4YzAgMS4xLS43OTYgMS41OTMtMS43OTUgMS4wOTRsLTQuNDA5LTIuMjA1QzQyLjgwNCA5MC40MDIgNDIgODkuMSA0MiA4OC4wMDlWNjMuOTkxem0xLjg1MSAyMy42NDRjLjU3NSAxLjU3OSAyLjAwMSAyLjUxIDMuMTg1IDIuMDc5czEuNjc4LTIuMDYxIDEuMTA0LTMuNjQtMi4wMDEtMi41MS0zLjE4NS0yLjA3OS0xLjY3OCAyLjA2MS0xLjEwNCAzLjY0eiIgZmlsbD0iIzAwMCIvPjxwYXRoIGZpbGw9IiNmMzJiMmIiIGQ9Ik0wIDIwbDQwIDE5Ljk5OFY5MEwwIDcweiIvPjxwYXRoIGZpbGw9IiNmZjVlNWUiIGQ9Ik04MCAyMEw0MCAzOS45OThWOTBsNDAtMjB6Ii8+PHBhdGggZD0iTTY2IDY1czAgMi41LTMgNC0zLTEtMy0xdi00bDYtM3Y0em02LjgxOS0xOS45NzRjLS43NTYgMi4wNzYtMi42MyAzLjI5OS00LjE4NyAyLjczM3MtMi4yMDctMi43MDktMS40NTEtNC43ODUgMi42My0zLjI5OSA0LjE4Ny0yLjczMyAyLjIwNyAyLjcwOSAxLjQ1MSA0Ljc4NXptLTE2IDhjLS43NTYgMi4wNzYtMi42MyAzLjI5OS00LjE4NyAyLjczM3MtMi4yMDctMi43MDktMS40NTEtNC43ODUgMi42My0zLjI5OSA0LjE4Ny0yLjczMyAyLjIwNyAyLjcwOSAxLjQ1MSA0Ljc4NXpNMTQgNDAuNTAyYTEuNzcgMS43NyAwIDAgMC0uODg4LTEuNDQ2bC0yLjIyNS0xLjExMmMtLjQ5LS4yNDUtLjg4OC4wMTItLjg4OC41NTl2OS45OTVhMS43NyAxLjc3IDAgMCAwIC44ODggMS40NDZsMi4yMjUgMS4xMTJjLjQ5LjI0NS44ODgtLjAxMi44ODgtLjU1OXYtOS45OTV6bTE0IDdhMS43NyAxLjc3IDAgMCAwLS44ODgtMS40NDZsLTIuMjI1LTEuMTEyYy0uNDktLjI0NS0uODg4LjAxMi0uODg4LjU1OXY5Ljk5NWExLjc3IDEuNzcgMCAwIDAgLjg4OCAxLjQ0NmwyLjIyNSAxLjExMmMuNDkuMjQ1Ljg4OC0uMDEyLjg4OC0uNTU5di05Ljk5NXptLTYgMTcuOTc3czAtMi41LTMtNC0zIDEtMyAxdjRsNiAzdi00eiIgZmlsbD0iIzAwMCIvPjxwYXRoIGZpbGw9InVybCgjQSkiIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMjQpIiBkPSJNMCAwbDQwIDE5Ljk5OUw4MCAwdjRMMzkuOTk4IDI0IDAgNHoiLz48cGF0aCBkPSJNMzIgMjljMi4yMDkgMCA0LTEuMzQzIDQtM3MtMS43OTEtMy00LTMtNCAxLjM0My00IDMgMS43OTEgMyA0IDN6bTE2LThjMi4yMDkgMCA0LTEuMzQzIDQtM3MtMS43OTEtMy00LTMtNCAxLjM0My00IDMgMS43OTEgMyA0IDN6IiBmaWxsPSIjMDAwIi8+PC9nPjwvc3ZnPg==) 
-  ![gRPC](https://img.shields.io/badge/-gRPC-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMjUuMTI3OSAxOS41NjRMMTIuNTY0IDdMNC41MDA0NWUtMDUgMTkuNTYzOUwxMi41NjQgMzIuMTI3OUwyNS4xMjc5IDE5LjU2NFoiIGZpbGw9IiM4NkMzQzQiLz4KICA8cGF0aCBkPSJNNDAgMTkuNTYzOUwzMi41NDY1IDEyLjExMDVMMjUuMDkzMSAxOS41NjRMMzIuNTQ2NiAyNy4wMTc0TDQwIDE5LjU2MzlaIiBmaWxsPSIjODZDM0M0Ii8+CiAgPHBhdGggZD0iTTE5LjU3NjggMTIuMTUzNEgxMy42NDY4TDYuMjM2OTQgMTkuNTYzMkwxMy42NDg2IDI2Ljk3NDRIMTkuNTc2M1YyNi44NzQ1TDEyLjI2NTEgMTkuNTYzMkwxOS41NzY4IDEyLjI1MTVWMTIuMTUzNFoiIGZpbGw9IiMzNDQ5NTkiLz4KICA8cGF0aCBkPSJNMjcuNTUzNiAyMy42NDgzSDMwLjgyMTZMMzQuOTA1MyAxOS41NjQ2TDMwLjgyMDcgMTUuNDc5NUgyNy41NTM2VjE1LjUzNDhMMzEuNTgzNCAxOS41NjQ2TDI3LjU1MzYgMjMuNTk0NFYyMy42NDgzWiIgZmlsbD0iIzM0NDk1OSIvPgogIDxwYXRoIGQ9Ik0zMi4yNTM5IDE4Ljk4MzhIMTAuODU5NlYyMC4xNDQxSDMyLjI1MzlWMTguOTgzOFoiIGZpbGw9IiMzNDQ5NTkiLz4KPC9zdmc+Cg==)  
+  ![gRPC](https://img.shields.io/badge/-gRPC-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMjUuMTI3OSAxOS41NjRMMTIuNTY0IDdMNC41MDA0NWUtMDUgMTkuNTYzOUwxMi41NjQgMzIuMTI3OUwyNS4xMjc5IDE5LjU2NFoiIGZpbGw9IiM4NkMzQzQiLz4KICA8cGF0aCBkPSJNNDAgMTkuNTYzOUwzMi41NDY1IDEyLjExMDVMMjUuMDkzMSAxOS41NjRMMzIuNTQ2NiAyNy4wMTc0TDQwIDE5LjU2MzlaIiBmaWxsPSIjODZDM0M0Ii8+CiAgPHBhdGggZD0iTTE5LjU3NjggMTIuMTUzNEgxMy42NDY4TDYuMjM2OTQgMTkuNTYzMkwxMy42NDg2IDI2Ljk3NDRIMTkuNTc2M1YyNi44NzQ1TDEyLjI2NTEgMTkuNTYzMkwxOS41NzY4IDEyLjI1MTVWMTIuMTUzNFoiIGZpbGw9IiMzNDQ5NTkiLz4KICA8cGF0aCBkPSJNMjcuNTUzNiAyMy42NDgzSDMwLjgyMTZMMzQuOTA1MyAxOS41NjQ2TDMwLjgyMDcgMTUuNDc5NUgyNy41NTM2VjE1LjUzNDhMMzEuNTgzNCAxOS41NjQ2TDI3LjU1MzYgMjMuNTk0NFYyMy42NDgzWiIgZmlsbD0iIzM0NDk1OSIvPgogIDxwYXRoIGQ9Ik0zMi4yNTM5IDE4Ljk4MzhIMTAuODU5NlYyMC4xNDQxSDMyLjI1MzlWMTguOTgzOFoiIGZpbGw9IiMzNDQ5NTkiLz4KPC9zdmc+Cg==)
+</details>
+<details>
+  <summary>
+   <H4>Blogs by me 📕</H4>
+  </summary>
+    <li> <a target="_blank" href="https://medium.com/@omaralanii/turbo-unveiling-the-wizard-behind-the-curtain-662335072252">Turbo: Unveiling the Wizard Behind the Curtain</a> </li>
+    <li> <a target="_blank" href="https://medium.com/@omaralanii/warp-the-terminal-for-the-21st-century-is-it-worth-the-hype-60e10ac98e6e">Warp: The terminal for the 21st century, is it worth the hype?</a> </li>
+    <li> <a target="_blank" href="https://medium.com/@omaralanii/a-step-by-step-guide-to-deploying-your-fullstack-rails-app-to-heroku-in-minutes-6aaedb87df28">A step-by-step guide to deploying a Fullstack Rails 7 App on Heroku in minutes</a> </li>
+</details>
+<details>
+  <summary>
+   <H4>Where to find me 🌎</H4>
+  </summary>
 
-## Blogs by me 📕
-- [Turbo: Unveiling the Wizard Behind the Curtain](https://medium.com/@omaralanii/turbo-unveiling-the-wizard-behind-the-curtain-662335072252)
-- [Warp: The terminal for the 21st century, is it worth the hype?](https://medium.com/@omaralanii/warp-the-terminal-for-the-21st-century-is-it-worth-the-hype-60e10ac98e6e)
-- [A step-by-step guide to deploying a Fullstack Rails 7 App on Heroku in minutes](https://medium.com/@omaralanii/a-step-by-step-guide-to-deploying-your-fullstack-rails-app-to-heroku-in-minutes-6aaedb87df28)
+  
+- <img src="https://cdn.simpleicons.org/x" width="24"> [@therealomarluq](https://x.com/therealomarluq)
+- <img src="https://cdn.simpleicons.org/linkedin" width="24"> [@omarluq](https://www.linkedin.com/in/omarluq/)
+- <img src="https://cdn.simpleicons.org/mastodon" width="24"> [@omarluq](https://ruby.social/@omarluq)
+- <img src="https://cdn.simpleicons.org/hey" width="24"> [omar.luqman@hey.com](mailto:omar.luqman@hey.com)
 
-
+  
+</details>
