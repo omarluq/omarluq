@@ -5,10 +5,6 @@
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://www.change.org/p/sign-and-share-this-urgent-petition-calling-for-a-ceasefirenow-in-gaza-and-israel)
 
-
 </div>
 
-
-
-
-
+<img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true">
