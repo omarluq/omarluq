@@ -1,5 +1,11 @@
 <div >
 
+# Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a><img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true">
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=omarluq&rank=-C,-B&theme=tokyonight&margin-w=15" />
+</p>
+
+
 ## Tech I enjoy
 
 
@@ -41,7 +47,7 @@
 
 ## Open Source
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=dark&hide_border=true)](https://github.com/omarluq/stimulus-store)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=tokyonight&hide_border=true)](https://github.com/omarluq/stimulus-store)
 
 [![Stimulus Store](https://img.shields.io/badge/stimulus--store-awesome-8A2BE2?style=flat-square&logo=github)](https://github.com/omarluq/stimulus-store)
 [![Website](https://img.shields.io/badge/website-stimulus--store.com-blue?style=flat-square)](https://stimulus-store.com)
