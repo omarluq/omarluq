@@ -57,9 +57,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
 
-[![Stimulus Store](https://img.shields.io/badge/stimulus--store-awesome-8A2BE2?style=flat-square&logo=github)](https://github.com/omarluq/stimulus-store)
-[![Website](https://img.shields.io/badge/website-stimulus--store.com-blue?style=flat-square)](https://stimulus-store.com)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
 
-A state management solution for Stimulus.js applications.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
 
 </div>
