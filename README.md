@@ -2,7 +2,7 @@
   
 
 
-# <img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></br></br></br>
+# <img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></br></br></br></br>
 
 
 
