@@ -2,14 +2,15 @@
   
 
 
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# <img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></br></br></br>
 
-<img align="left" width="150" height="150" src="https://github.com/omarluq/omarluq/blob/main/assets/ruby-wizard-octocat.png?raw=true">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote"/>
 
----
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote"/> 
+  </br>
+  </br>
+  </br>
   <img alig src="https://github-profile-trophy.vercel.app/?username=omarluq&rank=-C,-B&theme=tokyonight&margin-w=15" />
 </p>
 
