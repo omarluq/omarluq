@@ -58,8 +58,14 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=tokyonight)](https://github.com/omarluq/awesome-hotwire)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=tokyonight)](https://github.com/omarluq/kgithub)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=tokyonight)](https://github.com/omarluq/freelens-duplicate-extension)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=tokyonight)](https://github.com/omarluq/freelens-duplicate-extension)
 
 </div>
