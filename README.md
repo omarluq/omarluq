@@ -65,7 +65,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=tokyonight)](https://github.com/omarluq/freelens-duplicate-extension)
 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=tokyonight)](https://github.com/omarluq/freelens-duplicate-extension)
-
 </div>
