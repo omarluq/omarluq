@@ -7,11 +7,11 @@
 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote"/> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="Random Dev Quote"/> 
   </br>
   </br>
   </br>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=omarluq&rank=-C,-B&theme=tokyonight&margin-w=15" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=omarluq&rank=-C,-B&theme=nord&margin-w=15" />
 </p>
 
 
@@ -56,13 +56,11 @@
 
 ## Open Source
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=tokyonight)](https://github.com/omarluq/stimulus-store)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=tokyonight)](https://github.com/omarluq/awesome-hotwire)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=tokyonight)](https://github.com/omarluq/kgithub)
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=tokyonight)](https://github.com/omarluq/freelens-duplicate-extension)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=termisu&theme=nord)](https://github.com/omarluq/termisu)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=nord)](https://github.com/omarluq/stimulus-store)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=nord)](https://github.com/omarluq/stimulus-store)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=nord)](https://github.com/omarluq/awesome-hotwire)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=nord)](https://github.com/omarluq/kgithub)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=nord)](https://github.com/omarluq/freelens-duplicate-extension)\
 
 </div>
