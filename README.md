@@ -58,9 +58,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=termisu&theme=nord)](https://github.com/omarluq/termisu)\
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=nord)](https://github.com/omarluq/stimulus-store)\
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=stimulus-store&theme=nord)](https://github.com/omarluq/stimulus-store)\
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=awesome-hotwire&theme=nord)](https://github.com/omarluq/awesome-hotwire)\
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=kgithub&theme=nord)](https://github.com/omarluq/kgithub)\
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=nord)](https://github.com/omarluq/freelens-duplicate-extension)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=omarluq&repo=freelens-duplicate-extension&theme=nord)](https://github.com/omarluq/freelens-duplicate-extension)
 
 </div>
