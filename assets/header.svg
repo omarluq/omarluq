@@ -1,176 +1,129 @@
-<svg fill="none" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="40%" stop-color="#79c0ff"/>
+      <stop offset="70%" stop-color="#d2a8ff"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="30%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="70%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="rgba(88,166,255,0.08)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(88,166,255,0.03)" stroke-width="1"/>
+    </pattern>
+  </defs>
 
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
 
-        .container {
-          width: 100%;
-          height: 100%;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          position: relative;
-          overflow: hidden;
-          background: #0d1117;
-          font-family: 'JetBrains Mono', monospace;
-        }
+    .prompt { 
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      fill: #7ee787;
+      letter-spacing: 2px;
+      opacity: 0;
+      animation: fadeIn 0.5s ease forwards 0.3s;
+    }
+    .name {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 36px;
+      font-weight: 700;
+      fill: url(#nameGrad);
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      opacity: 0;
+      animation: fadeIn 0.8s ease forwards 0.6s;
+    }
+    .tagline {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      fill: #8b949e;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      opacity: 0;
+      animation: fadeIn 0.8s ease forwards 1s;
+    }
+    .cursor-rect {
+      fill: #58a6ff;
+      animation: blink 1s step-end infinite;
+    }
+    .glow {
+      animation: glowPulse 3s ease-in-out infinite;
+    }
+    .scan {
+      animation: scanMove 4s linear infinite;
+    }
+    .dot-l {
+      fill: #7ee787;
+      animation: pulseDot 2s ease-in-out infinite;
+    }
+    .dot-r {
+      fill: #f778ba;
+      animation: pulseDot 2s ease-in-out infinite 1s;
+    }
+    .corner {
+      stroke: rgba(88,166,255,0.2);
+      stroke-width: 1;
+      fill: none;
+    }
 
-        .grid {
-          position: absolute;
-          width: 100%;
-          height: 100%;
-          background-image:
-            linear-gradient(rgba(88, 166, 255, 0.03) 1px, transparent 1px),
-            linear-gradient(90deg, rgba(88, 166, 255, 0.03) 1px, transparent 1px);
-          background-size: 40px 40px;
-        }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes glowPulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+    @keyframes scanMove {
+      0% { transform: translateY(-2px); }
+      100% { transform: translateY(200px); }
+    }
+    @keyframes pulseDot {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+  </style>
 
-        .scanline {
-          position: absolute;
-          width: 100%;
-          height: 2px;
-          background: linear-gradient(90deg, transparent, rgba(88, 166, 255, 0.08), transparent);
-          animation: scanline 4s linear infinite;
-        }
+  <!-- Background -->
+  <rect width="800" height="200" fill="#0d1117"/>
+  <rect width="800" height="200" fill="url(#grid)"/>
 
-        @keyframes scanline {
-          0% { top: -2px; }
-          100% { top: 100%; }
-        }
+  <!-- Scanline -->
+  <rect class="scan" width="800" height="2" fill="url(#scanGrad)"/>
 
-        .glow-line {
-          position: absolute;
-          bottom: 0;
-          left: 0;
-          width: 100%;
-          height: 1px;
-          background: linear-gradient(90deg, transparent, #58a6ff, #79c0ff, #58a6ff, transparent);
-          animation: glow-pulse 3s ease-in-out infinite;
-        }
+  <!-- Corner brackets -->
+  <polyline class="corner" points="12,32 12,12 32,12"/>
+  <polyline class="corner" points="768,12 788,12 788,32"/>
+  <polyline class="corner" points="12,168 12,188 32,188"/>
+  <polyline class="corner" points="768,188 788,188 788,168"/>
 
-        @keyframes glow-pulse {
-          0%, 100% { opacity: 0.4; }
-          50% { opacity: 1; }
-        }
+  <!-- Dots -->
+  <circle class="dot-l" cx="30" cy="100" r="2.5"/>
+  <circle class="dot-r" cx="770" cy="100" r="2.5"/>
 
-        .content {
-          position: relative;
-          z-index: 2;
-          text-align: center;
-        }
+  <!-- Content -->
+  <text class="prompt" x="400" y="72" text-anchor="middle">~/omarluq</text>
+  <rect class="cursor-rect" x="453" y="60" width="8" height="14" rx="1"/>
 
-        .prompt {
-          color: #7ee787;
-          font-size: 13px;
-          letter-spacing: 2px;
-          margin-bottom: 8px;
-          opacity: 0;
-          animation: fade-in 0.5s ease forwards 0.3s;
-        }
+  <text class="name" x="400" y="115" text-anchor="middle">OMAR ALANI</text>
 
-        .name {
-          font-size: 36px;
-          font-weight: 700;
-          letter-spacing: 6px;
-          text-transform: uppercase;
-          background: linear-gradient(135deg, #58a6ff 0%, #79c0ff 40%, #d2a8ff 70%, #f778ba 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          opacity: 0;
-          animation: fade-in 0.8s ease forwards 0.6s;
-        }
+  <text class="tagline" x="400" y="145" text-anchor="middle">SENIOR DEVOPS ENGINEER · OSS BUILDER · SYSTEMS THINKER</text>
 
-        .tagline {
-          color: #8b949e;
-          font-size: 12px;
-          letter-spacing: 4px;
-          margin-top: 10px;
-          text-transform: uppercase;
-          opacity: 0;
-          animation: fade-in 0.8s ease forwards 1s;
-        }
-
-        .cursor {
-          display: inline-block;
-          width: 8px;
-          height: 14px;
-          background: #58a6ff;
-          margin-left: 4px;
-          animation: blink 1s step-end infinite;
-          vertical-align: middle;
-        }
-
-        @keyframes blink {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0; }
-        }
-
-        @keyframes fade-in {
-          from { opacity: 0; transform: translateY(8px); }
-          to { opacity: 1; transform: translateY(0); }
-        }
-
-        .dot-left, .dot-right {
-          position: absolute;
-          width: 4px;
-          height: 4px;
-          border-radius: 50%;
-          top: 50%;
-          transform: translateY(-50%);
-        }
-
-        .dot-left {
-          left: 30px;
-          background: #7ee787;
-          animation: pulse-dot 2s ease-in-out infinite;
-        }
-
-        .dot-right {
-          right: 30px;
-          background: #f778ba;
-          animation: pulse-dot 2s ease-in-out infinite 1s;
-        }
-
-        @keyframes pulse-dot {
-          0%, 100% { opacity: 0.3; box-shadow: 0 0 4px currentColor; }
-          50% { opacity: 1; box-shadow: 0 0 12px currentColor; }
-        }
-
-        .corner {
-          position: absolute;
-          width: 20px;
-          height: 20px;
-          border-color: rgba(88, 166, 255, 0.2);
-          border-style: solid;
-        }
-
-        .corner-tl { top: 12px; left: 12px; border-width: 1px 0 0 1px; }
-        .corner-tr { top: 12px; right: 12px; border-width: 1px 1px 0 0; }
-        .corner-bl { bottom: 12px; left: 12px; border-width: 0 0 1px 1px; }
-        .corner-br { bottom: 12px; right: 12px; border-width: 0 1px 1px 0; }
-      </style>
-
-      <div class="container">
-        <div class="grid"></div>
-        <div class="scanline"></div>
-        <div class="corner corner-tl"></div>
-        <div class="corner corner-tr"></div>
-        <div class="corner corner-bl"></div>
-        <div class="corner corner-br"></div>
-        <div class="dot-left"></div>
-        <div class="dot-right"></div>
-
-        <div class="content">
-          <div class="prompt">~/omarluq<span class="cursor"></span></div>
-          <div class="name">Omar Alani</div>
-          <div class="tagline">Senior DevOps Engineer · OSS Builder · Systems Thinker</div>
-        </div>
-
-        <div class="glow-line"></div>
-      </div>
-    </div>
-  </foreignObject>
+  <!-- Glow line -->
+  <rect class="glow" x="0" y="199" width="800" height="1" fill="url(#glowLine)"/>
 </svg>

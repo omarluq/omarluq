@@ -2,6 +2,9 @@
   <img src="./assets/header.svg" width="100%" alt="Omar Alani" />
 </a>
 
+</br>
+
+
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
